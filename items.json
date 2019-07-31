@@ -14,7 +14,19 @@
               "Карточный бустер MTG": {"price": 5,
                                        "wearable": false,
                                        "effect": "None",
-                                       "description": "Бустер из семи карт. Раритет."}
+                                       "description": "Бустер из семи карт. Раритет."},
+              "Мешок с говном": {"price": 0,
+                                 "wearable": false,
+                                 "effect": "None",
+                                 "description": "Неприятно пахнущий мешок. Содержимое лучше не вытаскивать."},
+              "Использованные презервативы ORCsize": {"price": 2,
+                                                      "wearable": false,
+                                                      "effect": "None",
+                                                      "description": "Неестественно большие презервативы. Качество соответствует эпохе."}
+              "Сральное ведро": {"price": 1,
+                                 "wearable": false,
+                                 "effect": "None",
+                                 "description": "Туалеты ещё не так распространены."}
   },
   "common": {"Стрела": {"price": 10,
                         "wearable": false,
